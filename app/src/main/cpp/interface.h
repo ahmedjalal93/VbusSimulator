@@ -1,0 +1,9 @@
+//
+// Created by ajalal on 4/3/18.
+//
+
+
+#ifndef VBUSSIMULATOR_INTERFACE_H_H
+#define VBUSSIMULATOR_INTERFACE_H_H
+
+#endif //VBUSSIMULATOR_INTERFACE_H_H
